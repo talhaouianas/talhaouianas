@@ -1,6 +1,6 @@
 ## Hi, I'm Anas 👋
 🔭 **Introduction**
--  I’m  **Anas TALHAOUI**
+-  I’m a software developer who is passionate about creating technology
 -  I'm currently a software enginering student and Fullstack Spring Boot & React.js Developper 
 -  I’m looking to collaborate on any Spring boot Open Source project
 -  Feel free to commit
@@ -14,11 +14,11 @@
 🛠 **Tech Stack**
 <br/>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%23-%23239120.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br/>
 
-![.Net](https://img.shields.io/badge/.-5C2D91?style=for-the-badge&logo=&logoColor=white)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 <br/>
