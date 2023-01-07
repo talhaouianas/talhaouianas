@@ -14,7 +14,7 @@
 🛠 **Tech Stack**
 <br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-![Java](https://img.shields.io/badge/Java.svg?style=for-the-badge&logo=Java&logoColor=white)
+
 ![Spring](https://img.shields.io/badge/Spring.svg?style=for-the-badge&logo=Spring&logoColor=white)
 
 
