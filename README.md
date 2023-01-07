@@ -1,15 +1,15 @@
-## Welcome
+## Hi, I'm Anas 👋
 🔭 **Introduction**
--  I’m  **Anas Chahid**
--  I'm currently a software enginering student and Fullstack ASP.NET & React.js Developper 
--   I’m looking to collaborate on any ASP.NET Core Open Source project
+-  I’m  **Anas TALHAOUI**
+-  I'm currently a software enginering student and Fullstack Spring Boot & React.js Developper 
+-  I’m looking to collaborate on any Spring boot Open Source project
 -  Feel free to commit
 
 
 📫 **Reach out to me:** 
-- E-mail: anas.chahid777@gmail.com
-- LinkedIn: www.linkedin.com/in/anas-chahid
-- Portfolio: https://anaschahid.netlify.app/
+- E-mail: talhaouianas1@gmail.com
+- LinkedIn: www.linkedin.com/in/talhaoui-anas
+- Portfolio: https://talhaouianas.netlify.app/
 
 🛠 **Tech Stack**
 <br/>
@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br/>
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.Net](https://img.shields.io/badge/.-5C2D91?style=for-the-badge&logo=&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 <br/>
