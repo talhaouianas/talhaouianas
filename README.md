@@ -15,7 +15,7 @@
 <br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
-![Spring](https://img.shields.io/badge/Spring%23-%23239120.svg?style=for-the-badge&logo=Spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%23.svg?style=for-the-badge&logo=Spring&logoColor=white)
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
