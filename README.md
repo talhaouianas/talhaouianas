@@ -3,7 +3,6 @@
 -  I’m a software developer who is passionate about creating technology
 -  I'm currently a software enginering student and Fullstack Spring & React.js Developper 
 -  I’m looking to collaborate on any Spring Open Source project
--  Feel free to commit
 
 
 📫 **Reach out to me:** 
