@@ -8,7 +8,7 @@
 📫 **Reach out to me:** 
 - E-mail: talhaouianas1@gmail.com
 - LinkedIn: www.linkedin.com/in/talhaoui-anas
-- Portfolio: https://talhaouianas.netlify.app/
+
 
 🛠 **Skills and Knowledges**
 
